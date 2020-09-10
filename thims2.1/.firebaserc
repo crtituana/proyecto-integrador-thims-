@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "thims-56de1": {
+      "hosting": {
+        "thims": [
+          "thims-56de1"
+        ]
+      }
+    }
+  }
+}
